@@ -1,23 +1,27 @@
-# Instructions
-
-- remove the instructions section when done
-- talk about the team and their experience
-- tell us about the special sauce that will make you successful
-- stay close to the recommended length (0.5 page)
-
 # Team
 
 ## Team and Experience
 
-* **Gandalf the Grey – Chief Architect**
-  Gandalf brings deep technical mastery and strategic foresight in decentralized systems architecture, with extensive experience in protocol design, cryptographic security, and blockchain governance. His proven track record in building resilient, trustless solutions is unmatched.
+As of July 2025, WORLD3 is powered by a global, full-time team of 39 members, strategically distributed across Canada, Dubai, and Singapore.
 
-* **Aragorn – Product Lead**
-  Aragorn's leadership and product execution skills are central to the Uniswap V2 vision. With extensive experience leading diverse teams, managing complex projects, and driving user-centric product development, Aragorn ensures disciplined delivery aligned with user needs.
+Total: 39 members 
+Operations:15 members  
+Tech: 24 members 
 
-* **Legolas – Lead Developer**
-  Legolas combines precise technical execution with exceptional agility in Ethereum smart contract development. Known for meticulous code quality, rapid iteration, and sharp debugging skills, he ensures Uniswap V2’s codebase remains secure, efficient, and reliable.
+Founders and Core Members: 
+Ling Wu (Ling) - Co-Founder
+LinkedIn: https://www.linkedin.com/in/wuxiao-web3ling/
+Seasoned engineer and entrepreneur with 15 years in software and blockchain. Founder of ChainIDE, led Web3 innovation globally, co-organized 100+ developer events. Recognized in the 2020 China Blockchain Development Contest. Built tooling used on Ethereum, BNB Chain, Flow, and Sui; frequent speaker at Devcon, ETHGlobal, and Tencent Cloud + AI summits.
 
-## Special Sauce
+Jesse Rurka - Co-Founder & VP of Technology
+LinkedIn: https://www.linkedin.com/in/jesse-rurka/
+Holds a Bachelor's in Computer Science, Business, and Communications. Previously an SDE at AWS, founded Cyberscape Labs for smart contract optimization, and worked on blockchain at Stratifyd. Specializes in blockchain, cloud computing, and full-stack development.
 
-The team uniquely combines Gandalf’s visionary protocol expertise, Aragorn’s strategic product execution, and Legolas’s technical precision and agility—forming a resilient, innovative, and efficient unit positioned to revolutionize decentralized exchanges.
+Tim Zhang - Product Director
+LinkedIn: https://www.linkedin.com/in/timzmatrixlabs
+CTO & co-founder of Matrix Labs, ex-Amazon engineer. Expertise includes Artificial Intelligence, Blockchain, Big Data, and Distributed Systems. Led Amazon's accounting and reconciliation platform project using blockchain technologies.
+
+Alvin Sun - Research Director
+LinkedIn: https://www.linkedin.com/in/xinyao-alvin-sun/
+Adjunct Professor at the University of Alberta, expertise in AI and deep learning with three U.S. patents. Leads the Decentralized Research Group at the University of Alberta, focusing on blockchain and AI.
+

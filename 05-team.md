@@ -8,7 +8,7 @@ Total: 39 members
 Operations:15 members  
 Tech: 24 members 
 
-Founders and Core Members: 
+Founders and Core Members:   
 Ling Wu (Ling) - Co-Founder  
 LinkedIn: https://www.linkedin.com/in/wuxiao-web3ling/  
 Seasoned engineer and entrepreneur with 15 years in software and blockchain. Founder of ChainIDE, led Web3 innovation globally, co-organized 100+ developer events. Recognized in the 2020 China Blockchain Development Contest. Built tooling used on Ethereum, BNB Chain, Flow, and Sui; frequent speaker at Devcon, ETHGlobal, and Tencent Cloud + AI summits.

@@ -17,12 +17,13 @@
 
 ## Track
 
-- [x] Super App 
-- [ ] Ecosystem Builder 
+- [ ] Super App 
+- [x] Ecosystem Builder 
 
 ## Executive Description
+WORLD3 is a decentralized platform that empowers users to create and deploy AI agents capable of performing task automation and strategic operations across both Web2 and Web3 ecosystems. Powered by cutting-edge Agent VM technology and the WORLD3 AI Protocol, our platform enables users to build expert-level agents equipped with hierarchical planning, continuous execution, multi-chain connectivity, and cross-platform automation.
 
-Uniswap V2 is a decentralized exchange protocol that enables automated, trustless, and censorship-resistant trading of ERC-20 tokens on the Ethereum blockchain. It solves the inefficiencies and vulnerabilities inherent in traditional centralized exchanges—such as reliance on trusted intermediaries, centralized points of failure, custodial risks, and liquidity fragmentation—by utilizing smart contracts and automated market maker (AMM) mechanisms. The primary goal of Uniswap V2 is to facilitate transparent, permissionless, and highly liquid token swaps while providing a robust infrastructure for decentralized finance (DeFi) applications.
+We are building the world's first Web3-native, expert AI agent workforce, designed from the ground up to host a new class of digital entity: persistent, professional-grade agents capable of executing complex, multi-step tasks autonomously over extended periods.
 
 ## Table of Contents
 
@@ -35,7 +36,6 @@ Uniswap V2 is a decentralized exchange protocol that enables automated, trustles
 
 ## Contact Information
 
-* **Website:** [www.uniswap.org](https://uniswap.org)
-* **Name:** Aragorn Elessar
-* **Email:** [aragorn@lotr.org](mailto:aragorn@lotr.org)
-* **Telegram:** [@aragorn\_uniswapv2](https://t.me/aragorn_uniswapv2)
+* **Website:** [https://world3.ai/](https://world3.ai/)
+* **Name:** Kudo
+* **Email:** [kudo@matrixlabs.org](mailto:kudo@matrixlabs.org)

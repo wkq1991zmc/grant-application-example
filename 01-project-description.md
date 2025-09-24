@@ -1,10 +1,3 @@
-# Instructions
-
-- remove the instructions section when done
-- tell us what the goal of the app is, and what problem it solves 
-- relate your project to the closest competitor
-- describe what makes your app unique
-- stay close to the recommended length (1 page)
 
 # 01. Project Description
 

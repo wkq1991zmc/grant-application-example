@@ -19,17 +19,17 @@ The total supply of $WAI is capped at 1,000,000,000 (one billion) tokens. The al
 AI Agent Ecosystem: 47%   
 Powering the decentralized AI network and rewarding node operators
 
-Airdrop Incentives: 16%
+Airdrop Incentives: 16%  
 Rewarding early users and fostering broad community adoption.
 
-Early Backers: 12%
+Early Backers: 12%  
 Aligning with strategic investors and partners for long-term growth.
 
-Core Contributors: 10%
+Core Contributors: 10%  
 Incentivizing the core team for sustained development and success.
 
-Liquidity: 8%
+Liquidity: 8%  
 Providing market depth and ensuring stable trading conditions.
 
-Community Growth: 7%
+Community Growth: 7%  
 Funding marketing, partnerships, and ecosystem initiatives.

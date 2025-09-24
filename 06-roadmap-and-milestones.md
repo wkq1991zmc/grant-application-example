@@ -57,11 +57,11 @@ Thus, World3 is transitioning from prototype / MVP toward full production readin
 | Phase | Months | Deliverables / Focus |
 |---|---|---|
 | Phase 1 | 0–1 | Final audits, fix vulnerabilities, stabilize core contracts |
-| Phase 2 | 2 | Launch Agent Marketplace Beta + plugin / knowledge pack infrastructure |
-| Phase 3 | 3 | Release Agent IDE / developer tools; integrate a key additional chain |
-| Phase 4 | 4 | Full frontend / dashboard roll-out; user onboarding begins |
-| Phase 5 | 5 | Incentive programs, quests, campaigns; initial user growth |
-| Phase 6 | 6–7 | Launch advanced agents (e.g. Developer Agent, Trading Agent) |
+| Phase 2 | 2 | Release Agent IDE / developer tools; integrate a key additional chain |
+| Phase 3 | 3 | Full frontend / dashboard roll-out; user onboarding begins |
+| Phase 4 | 4 | Incentive programs, quests, campaigns; initial user growth |
+| Phase 5 | 5–6 | Launch advanced agents (e.g. Developer Agent, Trading Agent) |
+| Phase 6 | 6-7 | Launch Agent Marketplace Beta + plugin / knowledge pack infrastructure |
 | Phase 7 | 8–9 | Enterprise onboarding, Web2 payment integration, scaling & optimization |
 
 By month 9, the platform should be operating with solid user traction, multiple agent types, and a growing ecosystem of creators and users.

@@ -28,9 +28,8 @@ Thus, World3 is transitioning from prototype / MVP toward full production readin
    - Error recovery, checkpointing, rollback logic  
    - Resource control, memory persistence, long-lived agent orchestration  
 
-3. **Marketplace, IDE, & Tooling**  
+3. **Marketplace & Tooling**  
    - Finalize the agent marketplace interface, monetization logic, and search/categorization  
-   - Launch Agent IDE/developer tools for building, testing, and deploying agents  
    - SDKs, APIs, plugin / knowledge-pack management  
 
 4. **Frontend / UX & Integration**  
@@ -63,8 +62,6 @@ Thus, World3 is transitioning from prototype / MVP toward full production readin
 | Phase 5 | 6-7 | Launch Agent Marketplace Beta + plugin / knowledge pack infrastructure |
 | Phase 6 | 8–9 | Enterprise onboarding, Web2 payment integration, scaling & optimization |
 
-By month 9, the platform should be operating with solid user traction, multiple agent types, and a growing ecosystem of creators and users.
-
 ---
 
 ## Proposed Milestones and Budget
@@ -76,5 +73,3 @@ By month 9, the platform should be operating with solid user traction, multiple 
 | **Milestone C – Community & Incentive Growth** | Month 3 | 30% | Reach target user count/agent deployments (e.g. 50,000 agents launched, 1M tasks executed) |
 | **Milestone D – Marketplace Beta Launch** | Month 4-6 | 15% | Agent marketplace live in Beta; creators can publish knowledge packs / agents; browse & deploy functionality works |
 | **Milestone E – Advanced Agent & Enterprise Launch** | Months 7–9 | 10% | Deploy trading / enterprise agents; integrate Web2 payments; show sustained growth in usage metrics |
-
-This structure ensures early development stages use at most 25% of grant funds, and later funding depends on measurable adoption and traction.

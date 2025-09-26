@@ -57,12 +57,11 @@ Thus, World3 is transitioning from prototype / MVP toward full production readin
 | Phase | Months | Deliverables / Focus |
 |---|---|---|
 | Phase 1 | 0–1 | Final audits, fix vulnerabilities, stabilize core contracts |
-| Phase 2 | 2 | Release Agent IDE / developer tools; integrate a key additional chain |
-| Phase 3 | 3 | Full frontend / dashboard roll-out; user onboarding begins |
-| Phase 4 | 4 | Incentive programs, quests, campaigns; initial user growth |
-| Phase 5 | 5–6 | Launch advanced agents (e.g. Developer Agent, Trading Agent) |
-| Phase 6 | 6-7 | Launch Agent Marketplace Beta + plugin / knowledge pack infrastructure |
-| Phase 7 | 8–9 | Enterprise onboarding, Web2 payment integration, scaling & optimization |
+| Phase 2 | 2 | Full frontend / dashboard roll-out; user onboarding begins |
+| Phase 3 | 3 | Incentive programs, quests, campaigns; initial user growth |
+| Phase 4 | 4–5 | Launch advanced agents (e.g. Developer Agent, Trading Agent) |
+| Phase 5 | 6-7 | Launch Agent Marketplace Beta + plugin / knowledge pack infrastructure |
+| Phase 6 | 8–9 | Enterprise onboarding, Web2 payment integration, scaling & optimization |
 
 By month 9, the platform should be operating with solid user traction, multiple agent types, and a growing ecosystem of creators and users.
 
@@ -73,10 +72,9 @@ By month 9, the platform should be operating with solid user traction, multiple 
 | Milestone | Timeline | Grant % | Success Criteria / KPIs |
 |---|---|---|---|
 | **Milestone A – Audit & Internal Deployment** | Months 0–1 | 15% | Complete external security audits; deploy baseline contracts; run test agents end-to-end |
-| **Milestone B – IDE & Developer Tools Release** | Month 2 | 15% | Developer IDE, APIs, plugin support live; first external developer builds agent successfully |
-| **Milestone C – Frontend & User Onboarding** | Month 3 | 20% | UI / dashboard launched; first cohort of non-developer users create and run agents successfully |
-| **Milestone D – Community & Incentive Growth** | Month 4 | 20% | Reach target user count/agent deployments (e.g. 50,000 agents launched, 1M tasks executed) |
-| **Milestone E – Marketplace Beta Launch** | Month 5-6 | 10% | Agent marketplace live in Beta; creators can publish knowledge packs / agents; browse & deploy functionality works |
-| **Milestone F – Advanced Agent & Enterprise Launch** | Months 7–9 | 20% | Deploy trading / enterprise agents; integrate Web2 payments; show sustained growth in usage metrics |
+| **Milestone B – Frontend & User Onboarding** | Month 2 | 30% | UI / dashboard launched; first cohort of non-developer users create and run agents successfully |
+| **Milestone C – Community & Incentive Growth** | Month 3 | 30% | Reach target user count/agent deployments (e.g. 50,000 agents launched, 1M tasks executed) |
+| **Milestone D – Marketplace Beta Launch** | Month 4-6 | 15% | Agent marketplace live in Beta; creators can publish knowledge packs / agents; browse & deploy functionality works |
+| **Milestone E – Advanced Agent & Enterprise Launch** | Months 7–9 | 10% | Deploy trading / enterprise agents; integrate Web2 payments; show sustained growth in usage metrics |
 
 This structure ensures early development stages use at most 25% of grant funds, and later funding depends on measurable adoption and traction.
